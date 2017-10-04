@@ -1,2 +1,2 @@
 # mi_first_repository
-repository used for learning
+This is my first repository ready to make me learn
